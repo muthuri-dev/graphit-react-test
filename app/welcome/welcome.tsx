@@ -25,7 +25,7 @@ export function Welcome() {
           responsive welcome page.
         </p>
         <p className="text-gray-700 dark:text-gray-300">
-          Testing ci for the application react
+          Testing ci for the application react app
         </p>
         <nav>
           <ul className="space-y-4">
