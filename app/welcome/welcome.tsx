@@ -24,6 +24,9 @@ export function Welcome() {
           This simple React app uses Tailwind CSS to create a clean and
           responsive welcome page.
         </p>
+        <p className="text-gray-700 dark:text-gray-300">
+          Testing ci for the application
+        </p>
         <nav>
           <ul className="space-y-4">
             <li>
